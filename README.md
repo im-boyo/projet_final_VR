@@ -10,4 +10,6 @@ Vous jouerez en tant qu'un fleuriste au cours de quelques jours, servant chaque 
 ### Visuel
 ### Sonore
 
+## Carte
+
 ## Schema
