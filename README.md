@@ -43,5 +43,7 @@ https://github.com/im-boyo/projet_final_VR/assets/89608091/1e1524d7-09fc-4543-b2
 
 
 ## Carte
+![carte_shop](https://github.com/im-boyo/projet_final_VR/assets/89608091/2e0742a7-81cb-4f6d-8552-92ffd2b9ab59)
 
 ## Schema
+![schema_interactivite drawio](https://github.com/im-boyo/projet_final_VR/assets/89608091/7660259e-11d5-4681-9495-bbc90d051908)
