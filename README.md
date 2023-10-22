@@ -16,12 +16,12 @@ Vous jouerez en tant qu'un fleuriste au cours de quelques jours, servant chaque 
 ![MicrosoftTeams-image (12)](https://github.com/im-boyo/projet_final_VR/assets/89608091/be1c92a7-fe46-4393-8f96-421c8626cdc3)
 
 ### Sonore
-![audio1](https://github.com/im-boyo/projet_final_VR/assets/89608091/d1fd3699-5d04-4558-8468-76be67b225b5)
-![audio2](https://github.com/im-boyo/projet_final_VR/assets/89608091/4711b1e8-47db-44f5-8e2b-6e2f8e74e048)
-![audio3](https://github.com/im-boyo/projet_final_VR/assets/89608091/071b6ef4-caea-41cb-950b-279b2635c872)
-![audio4](https://github.com/im-boyo/projet_final_VR/assets/89608091/8a902a60-8b03-4d46-a2c4-250a09e31303)
-![audio5](https://github.com/im-boyo/projet_final_VR/assets/89608091/8c646d74-8a4b-4db7-a29a-723d83a32f12)
-![audio6](https://github.com/im-boyo/projet_final_VR/assets/89608091/457d757d-fed4-4393-b270-4917f813dd39)
+![Rain](https://github.com/im-boyo/projet_final_VR/assets/89608091/d1fd3699-5d04-4558-8468-76be67b225b5) <br>
+![Lo-Fi](https://github.com/im-boyo/projet_final_VR/assets/89608091/4711b1e8-47db-44f5-8e2b-6e2f8e74e048)<br>
+![Poof-Smoke](https://github.com/im-boyo/projet_final_VR/assets/89608091/071b6ef4-caea-41cb-950b-279b2635c872)<br>
+![Pillow-Hit](https://github.com/im-boyo/projet_final_VR/assets/89608091/8a902a60-8b03-4d46-a2c4-250a09e31303)<br>
+![Magical](https://github.com/im-boyo/projet_final_VR/assets/89608091/8c646d74-8a4b-4db7-a29a-723d83a32f12)<br>
+![Nature](https://github.com/im-boyo/projet_final_VR/assets/89608091/457d757d-fed4-4393-b270-4917f813dd39)<br>
 
 ## Carte
 ![carte_shop](https://github.com/im-boyo/projet_final_VR/assets/89608091/2e0742a7-81cb-4f6d-8552-92ffd2b9ab59)
